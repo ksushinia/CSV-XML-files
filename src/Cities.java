@@ -6,10 +6,8 @@ import org.xml.sax.*;
 import org.xml.sax.helpers.DefaultHandler;
 
 public class Cities {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         while (true) {
             System.out.println("Введите путь до файла-справочника или 'exit' для завершения:");
             String filePath = scanner.nextLine();
