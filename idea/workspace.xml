@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf00064f-df71-4c07-93a1-dc08cf6cd547" name="Changes" comment="" />
+    <list default="true" id="c058843c-f7ef-4ba5-b3a1-8cfa6b4a1336" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,33 +18,30 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2ooDazShPi7prXDw4TNQ2woBWYB" />
+  <component name="ProjectId" id="2p3rbJtrdChbIErYvPy3HvH7j7r" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Cities.executor": "Run",
-    "Application.Floors.executor": "Run",
+    "Application.DirectoryProcessorApp.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.Read.executor": "Run",
-    "Application.Statistics.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/79508/Desktop/3 семестри/ООП/2lab"
+    "onboarding.tips.debug.path": "C:/Users/79508/Desktop/3 семестри/ООП/2 lab updated/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf00064f-df71-4c07-93a1-dc08cf6cd547" name="Changes" comment="" />
-      <created>1731527102299</created>
+      <changelist id="c058843c-f7ef-4ba5-b3a1-8cfa6b4a1336" name="Changes" comment="" />
+      <created>1732005673303</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731527102299</updated>
+      <updated>1732005673303</updated>
     </task>
     <servers />
   </component>
